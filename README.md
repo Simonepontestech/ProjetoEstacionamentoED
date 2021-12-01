@@ -15,6 +15,9 @@ A solução roda no terminal utilizando o JDK. Para navegar é necessário coloc
  
 
 No menu inicial tem quatro opções, selecionando a opção “1 – Cadastrar vaga” é direcionado para essa tela:
+
+![imagem2](https://user-images.githubusercontent.com/80346846/144327157-f8a59804-f6a6-42a2-bf7c-ed8b7e95d6dd.png)
+
  
 Na tela é pedido algumas informações para o cadastro da vaga e no final é gerado um ID para a vaga que pode ser utilizado para localizar a vaga posteriormente, ao final é retornado para o menu novamente, selecionando a opção “2 – Pesquisar vaga” é direcionado para essa tela:
  
