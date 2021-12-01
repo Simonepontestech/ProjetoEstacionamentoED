@@ -8,7 +8,10 @@ Para a disciplina de Estrutura de dados
 Discente: Simone Martins de Pontes 
  Docente: Humberto Barros
 Matrícula: 2021111510028
-A solução roda no terminal utilizando o JDK. Para navegar é necessário colocar a opção desejada, menu inicial:
+A solução roda no terminal utilizando o JDK. Para navegar é necessário colocar a opção desejada, menu inicial
+
+![imagem 1](https://user-images.githubusercontent.com/80346846/144327014-ad2b118a-2908-4f8f-9a0a-3828671d948b.png)
+
  
 
 No menu inicial tem quatro opções, selecionando a opção “1 – Cadastrar vaga” é direcionado para essa tela:
