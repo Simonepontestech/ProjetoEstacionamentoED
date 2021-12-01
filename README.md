@@ -20,8 +20,14 @@ No menu inicial tem quatro opções, selecionando a opção “1 – Cadastrar v
 
  
 Na tela é pedido algumas informações para o cadastro da vaga e no final é gerado um ID para a vaga que pode ser utilizado para localizar a vaga posteriormente, ao final é retornado para o menu novamente, selecionando a opção “2 – Pesquisar vaga” é direcionado para essa tela:
+
+![imagem3](https://user-images.githubusercontent.com/80346846/144327399-5fbefc95-fbf3-43b3-a339-8002f611a633.png)
+
  
 Na tela é pedido o ID da vaga que foi gerada no cadastro, após isso é mostrado as informações da vaga e se o usuário deseja liberar ou não, liberando a vaga, uma vaga fica disponível a mais, ao final é retornado ao menu, selecionando a opção “3 – Opções de Administrador” é direcionado para essa tela:
+
+
+![imagem4](https://user-images.githubusercontent.com/80346846/144327499-89072db2-9f28-4fc5-849e-d6cc6d8969c4.png)
 
  
 
